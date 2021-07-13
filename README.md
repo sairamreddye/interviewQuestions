@@ -50,3 +50,5 @@
 47.basic building blocks of angular in proper series?</br>
 48.what is dependency injection and how it will acheive in angular frame-work?</br>
 49.how child and parent relation will establish in angular? in how many ways we can aciheve it?</br>
+50.what are types of rxjs operators and how it will use's in angular development?
+51.what are the types of subjects present in rxjs and what is difference between different subjects?
