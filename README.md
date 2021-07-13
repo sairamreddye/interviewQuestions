@@ -30,13 +30,23 @@ Real Time Interview Questions Faced in interviews.
 27.what is local storage and it's uses and what is type of web storage's?  </br>
 28.what is npm packages used in project not related to angular framework?  </br>
 29.how to clear cache by programatically?</br>
-26.what is function proto-type?  </br>
-26.what is data encapsulation?  </br>
-26.what is polymorphism?  </br>
-26.what is style and ng-class in angular?  </br>
-26.what is forRoot and forChild and its's difference in angular?  </br>
-26.what difference betweeen var, let and const in js?  </br>
-26.what is difference between null and undefined?  </br>
-26.what is return typeOf undefined and other data types in js?  </br>
-
-
+30.what is function proto-type?  </br>
+31.what is data encapsulation?  </br>
+32.what is polymorphism?  </br>
+33.what is style and ng-class in angular?  </br>
+34.what is forRoot and forChild and its's difference in angular?  </br>
+35.what difference betweeen var, let and const in js?  </br>
+36.what is difference between null and undefined?  </br>
+37.what is return typeOf undefined and other data types in js?  </br>
+38.what is object.freeze and its functionality in js?
+39.what is concept of mixin in js?
+40.what is proto-type concept in js and what is it's usage in js?
+41.difference between optinal parameter and mandtory parameter in typescript?
+42.what is static method and inheritance in typescript?
+43.what are acess specifiers and modifers in typescript. how it will support in angular?
+44.what is difference between post, get, put, patch and deleted mehtods in http calls?
+45.find the each word length in given string 'what is your name'? o/p will be [4,2,4,4].
+46.lifecycle hooks in angular and each lifecycle hook funtionality in angular?
+47.basic building blocks of angular in proper series?
+48.what is dependency injection and how it will acheive in angular frame-work?
+49.how child and parent relation will establish in angular? in how many ways we can aciheve it?
