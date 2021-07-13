@@ -52,6 +52,6 @@
 49.how child and parent relation will establish in angular? in how many ways we can aciheve it?</br>
 50.what are types of rxjs operators and how it will use's in angular development?</br>
 51.what are the types of subjects present in rxjs and what is difference between different subjects?</br>
-52.different types of array functions in js?
-53.what SPA in angular? how it will achieve in angular?
-54.what is routing in angular and what is it's usage?
+52.different types of array functions in js?</br>
+53.what SPA in angular? how it will achieve in angular?</br>
+54.what is routing in angular and what is it's usage?</br>
