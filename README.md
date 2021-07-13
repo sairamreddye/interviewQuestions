@@ -21,7 +21,7 @@ Real Time Interview Questions Faced in interviews.
 18.what is authguards and it's usage and promises?</br>
 19.what is difference between promises and observables  </br>
 20.what is difference between resolve and reject  </br>
-21.what is oops concept in typescript and how it is related to angular framework?  </br>1
+21.what is oops concept in typescript and how it is related to angular framework?  </br>
 22.is function over loading is possible in typescript?  </br>
 23.what is npm and node_modules?  </br>
 24.what is nginix?  </br>
@@ -38,15 +38,15 @@ Real Time Interview Questions Faced in interviews.
 35.what difference betweeen var, let and const in js?  </br>
 36.what is difference between null and undefined?  </br>
 37.what is return typeOf undefined and other data types in js?  </br>
-38.what is object.freeze and its functionality in js?
-39.what is concept of mixin in js?
-40.what is proto-type concept in js and what is it's usage in js?
-41.difference between optinal parameter and mandtory parameter in typescript?
-42.what is static method and inheritance in typescript?
-43.what are acess specifiers and modifers in typescript. how it will support in angular?
-44.what is difference between post, get, put, patch and deleted mehtods in http calls?
-45.find the each word length in given string 'what is your name'? o/p will be [4,2,4,4].
-46.lifecycle hooks in angular and each lifecycle hook funtionality in angular?
-47.basic building blocks of angular in proper series?
-48.what is dependency injection and how it will acheive in angular frame-work?
-49.how child and parent relation will establish in angular? in how many ways we can aciheve it?
+38.what is object.freeze and its functionality in js?</br>
+39.what is concept of mixin in js?</br>
+40.what is proto-type concept in js and what is it's usage in js?</br>
+41.difference between optinal parameter and mandtory parameter in typescript?</br>
+42.what is static method and inheritance in typescript?</br>
+43.what are acess specifiers and modifers in typescript. how it will support in angular?</br>
+44.what is difference between post, get, put, patch and deleted mehtods in http calls?</br>
+45.find the each word length in given string 'what is your name'? o/p will be [4,2,4,4].</br>
+46.lifecycle hooks in angular and each lifecycle hook funtionality in angular?</br>
+47.basic building blocks of angular in proper series?</br>
+48.what is dependency injection and how it will acheive in angular frame-work?</br>
+49.how child and parent relation will establish in angular? in how many ways we can aciheve it?</br>
