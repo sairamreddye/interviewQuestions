@@ -21,3 +21,22 @@ Real Time Interview Questions Faced in interviews.
 18.what is authguards and it's usage and promises?</br>
 19.what is difference between promises and observables  </br>
 20.what is difference between resolve and reject  </br>
+21.what is oops concept in typescript and how it is related to angular framework?  </br>1
+22.is function over loading is possible in typescript?  </br>
+23.what is npm and node_modules?  </br>
+24.what is nginix?  </br>
+25.what is angular and its uses? </br>
+26.what is component in angular?  </br>
+27.what is local storage and it's uses and what is type of web storage's?  </br>
+28.what is npm packages used in project not related to angular framework?  </br>
+29.how to clear cache by programatically?</br>
+26.what is function proto-type?  </br>
+26.what is data encapsulation?  </br>
+26.what is polymorphism?  </br>
+26.what is style and ng-class in angular?  </br>
+26.what is forRoot and forChild and its's difference in angular?  </br>
+26.what difference betweeen var, let and const in js?  </br>
+26.what is difference between null and undefined?  </br>
+26.what is return typeOf undefined and other data types in js?  </br>
+
+
