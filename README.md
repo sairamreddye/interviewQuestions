@@ -1,4 +1,4 @@
-# Front-End Realated Real Time Interview Questions Candidates Faced in interviews.
+# Front-End Related Real Time Interview Questions Candidates Faced In Interviews.
 
 1.what is difference between Angular expression and javascript expression? </br>
 2.what are annotations in angular? </br>
